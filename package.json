@@ -39,7 +39,7 @@
     "node-gyp": "^3.6.0",
     "ora": "^1.2.0",
     "rimraf": "^2.6.1",
-    "spawn-rx": "^2.0.10",
+    "spawn-rx": "^3.0.0",
     "yargs": "^7.0.2"
   },
   "devDependencies": {
